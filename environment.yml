@@ -1,0 +1,6 @@
+name: disentangle-vae
+channels:
+          - conda-forge
+
+dependencies:
+          - python==3.7
