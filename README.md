@@ -20,6 +20,13 @@ Table of Contents:
 4. [Our Contributions](#our-contributions)
 5. [Losses Explanation](#losses-explanation)
 
+
+### Conda
+```bash
+conda env create -f environment.yml
+conda activate disentangle-vae
+```
+
 ## Install
 
 ```
